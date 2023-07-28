@@ -2,6 +2,7 @@
 theme based on the dark matter theme created by Tropical#8908 and Hammock#3110
  */
 
+
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css');
 @import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
@@ -54,7 +55,7 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 	--background-modifier-active: rgba(var(--md-black), 0.3);
 	--background-modifier-selected: rgba(var(--md-black), 0.6);
 	--elevation-low: inset 0 -1px 0 0 rgba(var(--md-black), 0.3);
-	--channels-default: rgba(var(--dm-white), 0.3);
+	--channels-default: rgba(var(--dm-white), 0.6);
 	--deprecated-quickswitcher-input-background: var(--background-solid);
 	--header-primary: rgba(var(--dm-white), 1);
 	--header-secondary: rgba(var(--dm-white), 1);
