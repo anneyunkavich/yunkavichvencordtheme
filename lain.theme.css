@@ -1,7 +1,5 @@
 /* 
- * Yes, this codebase is near unreadable. Why?
- * I designed this mainly as a test to see how viable avoidance of straight out class selectors would be.
- * The codebase was never designed to be pretty, it was designed to require as little maintenance as possible.
+theme based on the dark matter theme created by Tropical#8908 and Hammock#3110
  */
 
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
