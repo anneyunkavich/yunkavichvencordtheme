@@ -23,8 +23,8 @@ button {
 	/*--background-image: url('https://i.imgur.com/obYejGP.png');*/
 	--background-image: url('https://i.imgur.com/dLPwJuM.png');
 	/*--background-image: url('https://i.imgur.com/tzOGnTm.png');*/
-	--home-image: url('https://i.imgur.com/kqSixlX.gif');
-	/*--home-image: url('https://i.imgur.com/St7aSjY.gif');*/
+	/*--home-image: url('https://i.imgur.com/kqSixlX.gif');*/
+	--home-image: url('https://i.imgur.com/St7aSjY.gif');
 	/*--home-image: url('https://i.imgur.com/x69pAfN.gif');*/
 	--background-solid: #161921;
 	--background-solid-dark: #101218;
@@ -128,7 +128,7 @@ div[class*="typeWindows-"]::after {
 	content: "Let's all love Lain";
 	font-weight: 5000;
 	line-height: 31px;
-	color: rgb(179, 0, 255);
+	color: rgb(37, 172, 232);
 	font-size: 14px;
 	position: absolute;
 	padding: 0 12px;
